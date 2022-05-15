@@ -15,11 +15,13 @@ main {
 }
 
 header h1 {
-    width: 400px;
+    width: 180px;
     display: flex;
     right: 0;
     left: 0;
     margin: 30px auto;
+    font-weight: 200;
+    color: #1e1e2a;
 }
 
 .pokedex {
