@@ -24,6 +24,12 @@ header h1 {
     color: #1e1e2a;
 }
 
+.setaReturn{
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
 .pokedex {
     display: flex;
     gap: 30px;
